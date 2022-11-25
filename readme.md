@@ -1,1 +1,1 @@
-- this file can be used to setup automated buys on a uniswap like contract based on the users schedule
+- this repo will contain scripts I work on related to the EVM and its interactions
